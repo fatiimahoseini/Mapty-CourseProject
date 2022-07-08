@@ -2,7 +2,7 @@
 
 
 # ABOUT
-mapty // Map your workouts
+Mapty // Map your workouts.
 <br/>
 ❗ This is a Course Project. Please note that the design is not mine. Just the code.
 
